@@ -1,4 +1,4 @@
-1. Write a C program to print “Software Engineering”. Make use of ‘Comment’ in the file.
+1- Write a C program to print “Software Engineering”. Make use of ‘Comment’ in the file.
 
 ```markdown
 
@@ -14,7 +14,7 @@ int main()
 
 ```
 
-2. Write a C program 
+2- Write a C program 
 
 ```markdown
 
@@ -30,7 +30,7 @@ int main()
 
 ```
 
-3. Write a C program 
+3- Write a C program 
 
 ```markdown
 
