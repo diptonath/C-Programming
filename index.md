@@ -46,7 +46,7 @@ int main()
 
 ```
 
-4. Write a C program 
+4- Write a C program 
 
 ```markdown
 
@@ -62,7 +62,7 @@ int main()
 
 ```
 
-5. Write a C program 
+5- Write a C program 
 
 ```markdown
 
@@ -78,7 +78,7 @@ int main()
 
 ```
 
-6. Write a C program 
+6- Write a C program 
 
 ```markdown
 
@@ -94,7 +94,7 @@ int main()
 
 ```
 
-7. Write a C program 
+7- Write a C program 
 
 ```markdown
 
@@ -110,7 +110,7 @@ int main()
 
 ```
 
-8. Write a C program 
+8- Write a C program 
 
 ```markdown
 
@@ -126,7 +126,7 @@ int main()
 
 ```
 
-9. Write a C program 
+9- Write a C program 
 
 ```markdown
 
@@ -142,7 +142,7 @@ int main()
 
 ```
 
-10. Write a C program 
+10- Write a C program 
 
 ```markdown
 
