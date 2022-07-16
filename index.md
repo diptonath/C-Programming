@@ -62,22 +62,6 @@ int main()
 
 ```
 
-4. Write a C program 
-
-```markdown
-
-#include <stdio.h>
-
-int main()
-{
-    // single line comment
-    printf("Software Engineering");
-
-    return 0;
-}
-
-```
-
 5. Write a C program 
 
 ```markdown
@@ -143,6 +127,22 @@ int main()
 ```
 
 9. Write a C program 
+
+```markdown
+
+#include <stdio.h>
+
+int main()
+{
+    // single line comment
+    printf("Software Engineering");
+
+    return 0;
+}
+
+```
+
+10. Write a C program 
 
 ```markdown
 
