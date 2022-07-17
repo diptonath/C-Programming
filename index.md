@@ -184,11 +184,52 @@ int main()
 ```
 
 
-### Conditional:
+## Conditional:
 
-### Loop:
+## Loop:
 
-### Switch Case:
+1- Write a C program to print even numbers between a range of numbers, For   example, from 1-10, using a for,while & do-while loop.
 
-### Function & Recursion:
+```markdown
+
+#include <stdio.h>  
+   
+int main() {  
+    int i; 
+    printf("Even numbers between 1 to 10 Using For Loop\n"); 
+    
+    for(i = 1; i <= 10; i++) {  
+        if(i%2 == 0) { 
+            printf("%d ", i);  
+        }  
+    } 
+    
+    int w=1;
+    printf("\nEven numbers between 1 to 10 Using While Loop\n"); 
+
+    while(w <=10 ){
+        if(w%2 == 0) { 
+            printf("%d ", w);  
+        } 
+        w++;
+    }
+    
+    int d=1;
+    printf("\nEven numbers between 1 to 10 Using Do While Loop\n"); 
+    do {
+        if(d%2 == 0) { 
+            printf("%d ", d);  
+        }  
+        d++;
+    }
+    while(d <= 10);
+   
+    return 0;  
+}
+
+```
+
+## Switch Case:
+
+## Function & Recursion:
 
