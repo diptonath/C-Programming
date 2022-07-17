@@ -160,3 +160,23 @@ int main()
 }
 
 ```
+
+13- Write a C Program to convert Celsius value into Fahrenheit value. (Formula : F = 9C ∕ 5 +32;
+
+```markdown
+
+#include <stdio.h> 
+int main()
+{
+    float c, F;
+    printf("Enter Celsius:");
+    scanf("%f",&c);
+    
+    F = 9*c/5+32;
+
+    printf("Fahrenheit Value is: %f", F);
+
+    return 0;
+} 
+
+```
