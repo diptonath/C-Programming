@@ -105,30 +105,24 @@ int main()
 
 ```markdown
 
-#include <stdio.h>
-
-int main()
-{
-    // single line comment
-    printf("Software Engineering");
-
-    return 0;
-}
+#include <stdio.h>  
+int main()  
+{  
+    float area, side; 
+    printf("Enter the length of a side: ");  
+    scanf("%f",&side);
+    area = side*side;
+    printf("Area of a square is: %f", area);  
+    
+    return 0;  
+} 
 
 ```
 
-10. Write a C program 
+11- Write a C Program to Calculate Area of Rectangle
 
 ```markdown
 
-#include <stdio.h>
 
-int main()
-{
-    // single line comment
-    printf("Software Engineering");
-
-    return 0;
-}
 
 ```
