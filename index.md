@@ -143,6 +143,20 @@ int main()
 
 ```markdown
 
+#include <stdio.h> 
+int main()
+{
+    int d, years, weeks, days;
+    printf("Enter Days:");
+    scanf("%d",&d);
 
+    years = d/365; 
+    weeks = (d % 365)/7;
+    days  = (d*365)%7;
+
+    printf("Years: %d Weeks: %d Days: %d", years, weeks, days);
+
+    return 0;
+}
 
 ```
