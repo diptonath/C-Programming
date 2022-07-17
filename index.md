@@ -182,3 +182,13 @@ int main()
 } 
 
 ```
+
+
+### Conditional:
+
+### Loop:
+
+### Switch Case:
+
+### Function & Recursion:
+
