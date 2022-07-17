@@ -229,6 +229,29 @@ int main() {
 
 ```
 
+2- Write C program to print alphabets from a to z
+
+```markdown
+
+#include <stdio.h>
+int main() {
+    char c;
+    for (c = 'A'; c <= 'Z'; c++){
+        printf("%c ", c);
+    }
+    return 0;
+}
+
+```
+
+3- Write C program to print ASCII values of all characters
+
+```markdown
+
+
+
+```
+
 ## Switch Case:
 
 ## Function & Recursion:
