@@ -123,6 +123,26 @@ int main()
 
 ```markdown
 
+#include <stdio.h>  
+int main()  
+{  
+    int l, b, area; 
+    printf("Enter the length: ");  
+    scanf("%d",&l);
+    printf("Enter the breadth: ");  
+    scanf("%d",&b);
+    area = l*b;
+    printf("Area of a Rectangle is: %d", area);  
+    
+    return 0;  
+}  
+
+```
+
+12- Write a C Program to convert days to years, weeks and days.
+
+```markdown
+
 
 
 ```
