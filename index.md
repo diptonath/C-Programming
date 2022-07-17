@@ -248,6 +248,62 @@ int main() {
 
 ```markdown
 
+#include <stdio.h>
+int main() {
+    char c;
+    for (c = 'A'; c <= 'Z'; c++){
+        printf("%d ", c);
+    }
+    
+    printf("\n");
+    
+    for (c = 'a'; c <= 'z'; c++){
+        printf("%d ", c);
+    }
+    return 0;
+}
+
+```
+
+4- Write C program to print multiplication table of a given number
+
+```markdown
+
+#include <stdio.h>
+int main() {
+    
+  int n, i;
+  printf("Enter an number: ");
+  scanf("%d", &n);
+  
+  for (i = 1; i <= 10; ++i) {
+    printf("%d * %d = %d \n", n, i, n * i);
+  }
+  return 0;
+}
+
+```
+
+5- Write a C program to print all natural numbers in reverse order
+
+```markdown
+
+
+
+```
+
+6- 
+
+```markdown
+
+
+
+```
+
+7- 
+
+```markdown
+
 
 
 ```
