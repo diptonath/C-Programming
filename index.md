@@ -18,13 +18,7 @@ int main()
 
 ```markdown
 
-#include <stdio.h>
 
-int main()
-{
-
-    return 0;
-}
 
 ```
 
@@ -32,15 +26,7 @@ int main()
 
 ```markdown
 
-#include <stdio.h>
 
-int main()
-{
-    // single line comment
-    printf("Software Engineering");
-
-    return 0;
-}
 
 ```
 
@@ -48,15 +34,7 @@ int main()
 
 ```markdown
 
-#include <stdio.h>
 
-int main()
-{
-    // single line comment
-    printf("Software Engineering");
-
-    return 0;
-}
 
 ```
 
@@ -64,15 +42,7 @@ int main()
 
 ```markdown
 
-#include <stdio.h>
 
-int main()
-{
-    // single line comment
-    printf("Software Engineering");
-
-    return 0;
-}
 
 ```
 
@@ -92,33 +62,24 @@ void main()
 
 ```
 
-7- Write a C program 
+7- Write a C program that will take a sentence as an input and will print that.
 
 ```markdown
 
-#include <stdio.h>
-
-int main()
-{
-    // single line comment
-    printf("Software Engineering");
-
-    return 0;
-}
 
 ```
 
-8- Write a C program 
+8- Write a C Program to find the Size of data types
 
 ```markdown
 
-#include <stdio.h>
-
+#include<stdio.h>
 int main()
 {
-    // single line comment
-    printf("Software Engineering");
-
+    printf("Size of char: %ld byte\n",sizeof(char));
+    printf("Size of int: %ld bytes\n",sizeof(int));
+    printf("Size of float: %ld bytes\n",sizeof(float));
+    printf("Size of double: %ld bytes", sizeof(double));
     return 0;
 }
 
