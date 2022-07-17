@@ -85,23 +85,23 @@ int main()
 
 ```
 
-9- Write a C program 
+9- Write a C Program to Print ASCII Value
 
 ```markdown
 
-#include <stdio.h>
-
-int main()
-{
-    // single line comment
-    printf("Software Engineering");
-
-    return 0;
-}
+#include <stdio.h>  
+int main()  
+{  
+    char ch; 
+    printf("Enter a character");  
+    scanf("%c",&ch);
+    printf("\n The ascii value is: %d", ch);  
+    return 0;  
+}  
 
 ```
 
-10- Write a C program 
+10- Write a C program to Calculate Area of Square
 
 ```markdown
 
