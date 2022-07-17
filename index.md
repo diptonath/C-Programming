@@ -60,7 +60,7 @@ int main()
 
 ```
 
-5- Write a C program 
+5- Write a C program to check the differences between pre, post increment and decrement operators.
 
 ```markdown
 
@@ -76,19 +76,19 @@ int main()
 
 ```
 
-6- Write a C program 
+6- Write a C program that takes hours and minutes as input, and calculates the total number of minutes.
 
 ```markdown
 
-#include <stdio.h>
-
-int main()
+#include<stdio.h>
+void main()
 {
-    // single line comment
-    printf("Software Engineering");
-
-    return 0;
+    int a,b,c;
+    scanf("%d%d",&a,&b);
+    c=a*60+b;
+    printf("total minute=%d",c);
 }
+
 
 ```
 
